@@ -1,0 +1,30 @@
+body{
+  padding-left:100px
+}
+
+
+.column {
+ margin: 50px;
+ text-align: left;
+ 
+}
+
+.icon{
+  width:100px;
+  content-align: center;
+}
+
+.info{
+  margin:100px;
+  /* padding: 30px; */
+  text-align: center;
+}
+
+.footer{
+  margin-top:50px;
+  height: 100px
+}
+
+h1{
+  text-align:center
+}
