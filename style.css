@@ -28,3 +28,9 @@ body{
 h1{
   text-align:center
 }
+
+.header{
+  background-color: rgba(251,119, 33, .5);
+  color: #fff;
+  padding: 50px
+}
