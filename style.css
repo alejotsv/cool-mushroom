@@ -1,5 +1,5 @@
 body{
-  padding-left:100px
+  padding-left:50px
 }
 
 
@@ -26,7 +26,8 @@ body{
 }
 
 h1{
-  text-align:center
+  text-align:center;
+  margin-top: 50px;
 }
 
 .header{
@@ -34,3 +35,12 @@ h1{
   color: #fff;
   padding: 50px
 }
+.orange{
+  background-color: rgba(251,119, 33, .5);
+  color: #fff;
+}
+
+/* .nav{
+   background-color: rgba(251,119, 33, .5);
+  color: #fff;
+} */
